@@ -7,4 +7,4 @@ Employee Management CRUD Operation - REST API
 
 3) Run Application: gradle bootRun
 
-Swagger URL : http://localhost:8080/swagger-ui/index.html
+ Swagger URL : http://localhost:8080/swagger-ui/index.html
