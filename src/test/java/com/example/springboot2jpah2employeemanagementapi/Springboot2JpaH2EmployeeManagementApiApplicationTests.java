@@ -7,10 +7,11 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-class Springboot2JpaH2EmployeeManagementApiApplicationTests {
+public class Springboot2JpaH2EmployeeManagementApiApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    public void contextLoads() {
+        Springboot2JpaH2EmployeeManagementApiApplication.main(new String[]{});
+    }
 
 }
