@@ -3,7 +3,7 @@ Employee Management CRUD Operation - REST API
 
 1) Build: gradle build
 
-2)only build jacocoTestReport: gradle build jacocoTestReport
+2) only build jacocoTestReport: gradle build jacocoTestReport
 
 3) Run Application: gradle bootRun
 
